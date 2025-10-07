@@ -2,34 +2,6 @@
 
 A modern, responsive portfolio website built with React, Vite, and Framer Motion.
 
-## 🏗️ Project Structure
-
-```
-src/
-├── components/          # Reusable UI components
-│   ├── Navigation.jsx   # Main navigation bar
-│   ├── Footer.jsx       # Site footer with social links
-│   ├── ThemeToggle.jsx  # Dark/light theme toggle
-│   └── ScrollTopButton.jsx # Floating scroll-to-top button
-├── pages/               # Main page components
-│   ├── Home.jsx         # Landing page
-│   ├── About.jsx        # About page with tabs
-│   ├── Skills.jsx       # Skills display
-│   ├── Projects.jsx     # Projects grid with filtering
-│   └── Contact.jsx      # Contact form
-├── layouts/             # Layout components
-│   └── MainLayout.jsx   # Main app layout wrapper
-├── hooks/               # Custom React hooks
-│   └── useTheme.js      # Theme management hook
-├── utils/               # Utility functions
-├── styles/              # CSS and styling
-├── data.js              # Centralized data (profile, projects, etc.)
-├── email.js             # EmailJS integration
-├── App.jsx              # Main app component (now clean and simple!)
-├── main.jsx             # App entry point
-└── index.css            # Global styles
-```
-
 ## 🚀 Key Features
 
 - **Responsive Design**: Works on all devices
