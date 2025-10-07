@@ -51,7 +51,7 @@ A modern, responsive portfolio website built with React, Vite, and Framer Motion
 - **Custom Properties**: CSS variables in `:root`
 
 ### Adding New Components
-1. Create in `src/components/`
+1. Create in `src/`
 2. Import and use in relevant pages
 3. Add styles to `src/App.css`
 
